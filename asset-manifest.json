@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/covid-19-tracker/static/css/main.9b36051d.css",
+    "main.js": "/covid-19-tracker/static/js/main.9056a5ca.js",
+    "index.html": "/covid-19-tracker/index.html",
+    "main.9b36051d.css.map": "/covid-19-tracker/static/css/main.9b36051d.css.map",
+    "main.9056a5ca.js.map": "/covid-19-tracker/static/js/main.9056a5ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b36051d.css",
+    "static/js/main.9056a5ca.js"
+  ]
+}
